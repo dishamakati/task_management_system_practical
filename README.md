@@ -79,7 +79,7 @@ Follow these steps to run the project locally.
 
 1. Clone the Repository
 bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git](https://github.com/dishamakati/task_management_system_practical.git)
 
 
 Navigate to the project directory:
