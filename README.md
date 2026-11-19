@@ -167,14 +167,6 @@ Role	Permissions
 Admin	Manage employees, view all tasks, manage tasks, view dashboard and activity logs
 Team Leader	Create, assign, update, and manage their own tasks
 Employee	View assigned tasks and update task status
-Important Notes
-Configure your database credentials in the .env file before running migrations.
-Never commit your .env file to GitHub.
-Make sure your MySQL server is running.
-Ensure the required PHP extensions for your Laravel version are enabled.
-If the project uses seeded users or roles, run the appropriate database seeders.
-Do not use php artisan migrate:fresh on a database containing data you want to preserve.
-Useful Laravel Commands
 
 Clear application cache:
 
